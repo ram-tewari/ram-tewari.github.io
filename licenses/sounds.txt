@@ -1,0 +1,8 @@
+Sound in NOCTURNE. All CC0 1.0 (public domain dedication); no attribution is required, given anyway.
+
+room-tone.mp3: JaggedStone, https://opengameart.org/content/loopable-dungeon-ambience (dungeon_ambient_1_0.ogg)
+rain.mp3: Ylmir, https://opengameart.org/content/rain-loopable (Rain OGG.zip / 1.ogg)
+door.mp3: qubodup, https://opengameart.org/content/door-open-door-close-set (qubodup-DoorSet.7z / ogg/qubodup-DoorOpen03.ogg)
+machine.mp3: BMacZero, https://opengameart.org/content/mechanical-sounds (mechanical1.wav)
+
+Valerie's sounds are from Ram Tewari's CognitiveOS app (CognitiveOS/Sounds), synthesized by its own generator, tools/sounds/make_sounds.swift.

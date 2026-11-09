@@ -1,0 +1,1 @@
+var e=`nocturne.pharos.repo`;function t(){let t=new URLSearchParams(location.search).get(`repo`);if(t)return t;try{return sessionStorage.getItem(e)}catch{return null}}export{t as n,e as t};

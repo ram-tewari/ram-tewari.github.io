@@ -1,0 +1,316 @@
+{
+ "version": 1,
+ "cell": 256,
+ "columns": 8,
+ "rows": 3,
+ "imageScale": 0.5,
+ "image": "retrieval-atlas.webp",
+ "fallback": "retrieval-atlas.png",
+ "frames": {
+  "look_0": {
+   "x": 0,
+   "y": 0,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_gaze_up",
+   "book": null
+  },
+  "look_1": {
+   "x": 256,
+   "y": 0,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_gaze_up_right",
+   "book": null
+  },
+  "look_2": {
+   "x": 512,
+   "y": 0,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_gaze_up",
+   "book": null
+  },
+  "crouch_0": {
+   "x": 768,
+   "y": 0,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_serious",
+   "book": null
+  },
+  "hop_0": {
+   "x": 1024,
+   "y": 0,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_hang_edge_01",
+   "book": null
+  },
+  "hop_1": {
+   "x": 1280,
+   "y": 0,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_hang_edge_02",
+   "book": null
+  },
+  "hop_2": {
+   "x": 1536,
+   "y": 0,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_hang_edge_02",
+   "book": "closed"
+  },
+  "hop_3": {
+   "x": 1792,
+   "y": 0,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_hang_edge_01",
+   "book": "closed"
+  },
+  "land_0": {
+   "x": 0,
+   "y": 256,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_clipboard_01",
+   "book": "closed"
+  },
+  "carry_0": {
+   "x": 256,
+   "y": 256,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_walk_01",
+   "book": "closed"
+  },
+  "carry_1": {
+   "x": 512,
+   "y": 256,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_walk_02",
+   "book": "closed"
+  },
+  "carry_2": {
+   "x": 768,
+   "y": 256,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_walk_03",
+   "book": "closed"
+  },
+  "carry_3": {
+   "x": 1024,
+   "y": 256,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_walk_04",
+   "book": "closed"
+  },
+  "carry_4": {
+   "x": 1280,
+   "y": 256,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_walk_05",
+   "book": "closed"
+  },
+  "carry_5": {
+   "x": 1536,
+   "y": 256,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_walk_06",
+   "book": "closed"
+  },
+  "read_0": {
+   "x": 1792,
+   "y": 256,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_clipboard_01",
+   "book": "open"
+  },
+  "read_1": {
+   "x": 0,
+   "y": 512,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_clipboard_02",
+   "book": "turn1"
+  },
+  "read_2": {
+   "x": 256,
+   "y": 512,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_clipboard_03",
+   "book": "turn2"
+  },
+  "read_3": {
+   "x": 512,
+   "y": 512,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_clipboard_04",
+   "book": "turn3"
+  },
+  "read_4": {
+   "x": 768,
+   "y": 512,
+   "width": 256,
+   "height": 256,
+   "source": "valerie_clipboard_03",
+   "book": "open"
+  }
+ },
+ "clips": {
+  "look": {
+   "loop": false,
+   "still": 0,
+   "anchorKind": "ground",
+   "frames": [
+    {
+     "frame": "look_0",
+     "duration": 320,
+     "y": 0
+    },
+    {
+     "frame": "look_1",
+     "duration": 260,
+     "y": 0
+    },
+    {
+     "frame": "look_2",
+     "duration": 200,
+     "y": 0
+    }
+   ]
+  },
+  "crouch": {
+   "loop": false,
+   "still": 0,
+   "anchorKind": "ground",
+   "frames": [
+    {
+     "frame": "crouch_0",
+     "duration": 110,
+     "y": 10
+    }
+   ]
+  },
+  "hop": {
+   "loop": false,
+   "still": 1,
+   "anchorKind": "air",
+   "frames": [
+    {
+     "frame": "hop_0",
+     "duration": 130,
+     "y": -30
+    },
+    {
+     "frame": "hop_1",
+     "duration": 150,
+     "y": -52
+    },
+    {
+     "frame": "hop_2",
+     "duration": 120,
+     "y": -40
+    },
+    {
+     "frame": "hop_3",
+     "duration": 130,
+     "y": -12
+    }
+   ]
+  },
+  "land": {
+   "loop": false,
+   "still": 0,
+   "anchorKind": "ground",
+   "frames": [
+    {
+     "frame": "land_0",
+     "duration": 160,
+     "y": 8
+    }
+   ]
+  },
+  "carry": {
+   "loop": true,
+   "still": 0,
+   "anchorKind": "ground",
+   "frames": [
+    {
+     "frame": "carry_0",
+     "duration": 110,
+     "y": 2
+    },
+    {
+     "frame": "carry_1",
+     "duration": 110,
+     "y": 2
+    },
+    {
+     "frame": "carry_2",
+     "duration": 110,
+     "y": 2
+    },
+    {
+     "frame": "carry_3",
+     "duration": 110,
+     "y": 2
+    },
+    {
+     "frame": "carry_4",
+     "duration": 110,
+     "y": 2
+    },
+    {
+     "frame": "carry_5",
+     "duration": 110,
+     "y": 2
+    }
+   ]
+  },
+  "read": {
+   "loop": true,
+   "still": 0,
+   "anchorKind": "ground",
+   "frames": [
+    {
+     "frame": "read_0",
+     "duration": 900,
+     "y": 0
+    },
+    {
+     "frame": "read_1",
+     "duration": 170,
+     "y": 0
+    },
+    {
+     "frame": "read_2",
+     "duration": 170,
+     "y": 0
+    },
+    {
+     "frame": "read_3",
+     "duration": 170,
+     "y": 0
+    },
+    {
+     "frame": "read_4",
+     "duration": 700,
+     "y": 0
+    }
+   ]
+  }
+ },
+ "note": "Native frames unchanged; the book sprites are original. A staged composition, not hand-animated in-betweens."
+}

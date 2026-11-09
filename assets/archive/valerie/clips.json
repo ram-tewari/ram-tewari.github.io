@@ -1,0 +1,371 @@
+{
+  "version": 1,
+  "cell": 256,
+  "columns": 8,
+  "rows": 3,
+  "image": "supplemental-atlas.webp",
+  "fallback": "supplemental-atlas.png",
+  "imageScale": 1,
+  "anchor": {
+    "x": 128,
+    "y": 241
+  },
+  "frames": {
+    "lie_read_01": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "a76c2e8738354cfa80a4f13f869f962dcf1125664dfd29f3fb8f52f020c750b0",
+      "opaqueBounds": [
+        16,
+        98,
+        243,
+        232
+      ]
+    },
+    "lie_read_02": {
+      "x": 256,
+      "y": 0,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "627dadff84904026717a7d2174574975a3895acba801b973a2e35c7942b2c214",
+      "opaqueBounds": [
+        16,
+        98,
+        243,
+        232
+      ]
+    },
+    "lie_read_03": {
+      "x": 512,
+      "y": 0,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "2460d3cf1dbd51ec67b21f59a04511c287926619ed0f70226d3b3f9262caffb0",
+      "opaqueBounds": [
+        16,
+        98,
+        243,
+        232
+      ]
+    },
+    "lie_read_04": {
+      "x": 768,
+      "y": 0,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "627dadff84904026717a7d2174574975a3895acba801b973a2e35c7942b2c214",
+      "opaqueBounds": [
+        16,
+        98,
+        243,
+        232
+      ]
+    },
+    "nod_1": {
+      "x": 1024,
+      "y": 0,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "fa616ae73dbd1fe83ac574878fc33a96bf274489eec3708915c6aa0dcc834ca4",
+      "opaqueBounds": [
+        60,
+        35,
+        202,
+        242
+      ]
+    },
+    "nod_2": {
+      "x": 1280,
+      "y": 0,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "ae4d569d1680cf1e203cd04c6360063c4d8bbca0afb2a8007bc46241dea508ac",
+      "opaqueBounds": [
+        60,
+        38,
+        202,
+        242
+      ]
+    },
+    "confused_01": {
+      "x": 1536,
+      "y": 0,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "a3d012578b3154237dcdca8e87bb338e0314b20f20683938b3488641f73f9743",
+      "opaqueBounds": [
+        60,
+        32,
+        202,
+        242
+      ]
+    },
+    "confused_02": {
+      "x": 1792,
+      "y": 0,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "6dd5455bbce716d8287c8a71ae8e043a87a30db151910145e6f997d26ca8c5b3",
+      "opaqueBounds": [
+        61,
+        32,
+        203,
+        242
+      ]
+    },
+    "confused_03": {
+      "x": 0,
+      "y": 256,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "8742b24de47f4e7de586f554941361537adbe6b3d02c5244dc93bc7f7402f997",
+      "opaqueBounds": [
+        61,
+        33,
+        203,
+        242
+      ]
+    },
+    "eyeroll_01": {
+      "x": 256,
+      "y": 256,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "701635dc6275205bb6eb6b79656553513d6261c9529d74a99c3198451d9d5d85",
+      "opaqueBounds": [
+        60,
+        32,
+        202,
+        242
+      ]
+    },
+    "eyeroll_02": {
+      "x": 512,
+      "y": 256,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "3d6a4e3a8b333d0030c7bbc3f9313f3bf06fc8201fa1a53ec71b7ecc9eb6944b",
+      "opaqueBounds": [
+        60,
+        32,
+        202,
+        242
+      ]
+    },
+    "eyeroll_03": {
+      "x": 768,
+      "y": 256,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "d05ceef39798cfd6e793b39887f7e9a515989261a334d1e165dbaa2aa9e4b9df",
+      "opaqueBounds": [
+        60,
+        32,
+        202,
+        242
+      ]
+    },
+    "sigh_01": {
+      "x": 1024,
+      "y": 256,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "d05ceef39798cfd6e793b39887f7e9a515989261a334d1e165dbaa2aa9e4b9df",
+      "opaqueBounds": [
+        60,
+        32,
+        202,
+        242
+      ]
+    },
+    "sigh_02": {
+      "x": 1280,
+      "y": 256,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "1d6a124d755a3a36df6c806d6f42e21df8de7965079ab1cb20a9de4c4c6b4316",
+      "opaqueBounds": [
+        60,
+        33,
+        202,
+        242
+      ]
+    },
+    "sigh_03": {
+      "x": 1536,
+      "y": 256,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "5776545c2a4f2d2e891ddffa006cb80f746623d2178b703961e660af066a6dc4",
+      "opaqueBounds": [
+        60,
+        35,
+        202,
+        242
+      ]
+    },
+    "idle_hair_01": {
+      "x": 1792,
+      "y": 256,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "1b15aa77ecdb7e001765c5760b785f939ba802430c765dc252119049b8c2f581",
+      "opaqueBounds": [
+        60,
+        32,
+        202,
+        242
+      ]
+    },
+    "idle_hair_02": {
+      "x": 0,
+      "y": 512,
+      "width": 256,
+      "height": 256,
+      "sourceSHA256": "7db1e6aec2729c29dc7c4f7e636bb8fb69034ee2d1bbfb6bd2ba623ae666676a",
+      "opaqueBounds": [
+        60,
+        32,
+        202,
+        242
+      ]
+    }
+  },
+  "clips": {
+    "reading-nook": {
+      "loop": true,
+      "still": 0,
+      "anchorKind": "lying",
+      "frames": [
+        {
+          "frame": "lie_read_01",
+          "duration": 900,
+          "y": 0
+        },
+        {
+          "frame": "lie_read_02",
+          "duration": 900,
+          "y": 0
+        },
+        {
+          "frame": "lie_read_03",
+          "duration": 900,
+          "y": 0
+        },
+        {
+          "frame": "lie_read_04",
+          "duration": 900,
+          "y": 0
+        }
+      ]
+    },
+    "nod": {
+      "loop": false,
+      "still": 0,
+      "anchorKind": "ground",
+      "frames": [
+        {
+          "frame": "nod_1",
+          "duration": 150,
+          "y": 0
+        },
+        {
+          "frame": "nod_2",
+          "duration": 150,
+          "y": 0
+        },
+        {
+          "frame": "nod_1",
+          "duration": 150,
+          "y": 0
+        }
+      ]
+    },
+    "clarify": {
+      "loop": false,
+      "still": 0,
+      "anchorKind": "ground",
+      "frames": [
+        {
+          "frame": "confused_01",
+          "duration": 250,
+          "y": 0
+        },
+        {
+          "frame": "confused_02",
+          "duration": 250,
+          "y": 0
+        },
+        {
+          "frame": "confused_03",
+          "duration": 250,
+          "y": 0
+        }
+      ]
+    },
+    "deadpan-refusal": {
+      "loop": false,
+      "still": 0,
+      "anchorKind": "ground",
+      "frames": [
+        {
+          "frame": "eyeroll_01",
+          "duration": 220,
+          "y": 0
+        },
+        {
+          "frame": "eyeroll_02",
+          "duration": 220,
+          "y": 0
+        },
+        {
+          "frame": "eyeroll_03",
+          "duration": 220,
+          "y": 0
+        }
+      ]
+    },
+    "sigh-recover": {
+      "loop": false,
+      "still": 0,
+      "anchorKind": "ground",
+      "frames": [
+        {
+          "frame": "sigh_01",
+          "duration": 280,
+          "y": 0
+        },
+        {
+          "frame": "sigh_02",
+          "duration": 280,
+          "y": 0
+        },
+        {
+          "frame": "sigh_03",
+          "duration": 280,
+          "y": 0
+        }
+      ]
+    },
+    "hair-idle": {
+      "loop": true,
+      "still": 0,
+      "anchorKind": "ground",
+      "frames": [
+        {
+          "frame": "idle_hair_01",
+          "duration": 900,
+          "y": 0
+        },
+        {
+          "frame": "idle_hair_02",
+          "duration": 900,
+          "y": 0
+        }
+      ]
+    }
+  },
+  "note": "Original native frames, unchanged. Reading is a lying pose for a nook, never seated behind a desk. Animation timings are browser adaptations. Do not claim newly drawn book-retrieval art."
+}
