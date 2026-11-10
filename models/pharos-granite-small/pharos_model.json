@@ -1,0 +1,6 @@
+{
+ "model_id": "granite-embedding-small-english-r2-int8",
+ "pooling": "cls",
+ "max_length": 512,
+ "onnx_file": "model_quantized.onnx"
+}
